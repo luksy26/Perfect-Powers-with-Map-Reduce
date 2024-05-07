@@ -1,7 +1,7 @@
 # Perfect-Powers-with-Map-Reduce
 
 Fisiere sursa:
-	- map_reduce.c : citire din fisierul argument, distribuire fisiere threadurilor
+	- map_reduce.c : citire din fisierul argument, distribuie fisiere threadurilor
 		    mapper, alocare de memorie pentru structuri de date, construire
 		    ciurul lui Eratostene, creare si join de threaduri (Mapperi si
 		    Reduceri)
