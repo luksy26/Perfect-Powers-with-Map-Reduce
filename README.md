@@ -38,7 +38,7 @@ In functia thread_function:
 	cati divizori comuni > 1 au exponentii din descompunerea in factori primi ai
 	numarului
 	
-	ex: 20 736 = 2 ^ 8 * 3 ^ 4, 3 si 6 au divizori comuni {2,4}, deci numarul se
+	ex: 20 736 = 2 ^ 8 * 3 ^ 4, 8 si 4 au divizori comuni {2,4}, deci numarul se
 	poate scrie in 2 moduri: (2 ^ 4 * 3 ^ 2) ^ 2 si (2 ^ 2 * 3) ^ 4
 	
 	- in cel mai rau caz avem un singur factor prim, deci divizorii comuni > 1
